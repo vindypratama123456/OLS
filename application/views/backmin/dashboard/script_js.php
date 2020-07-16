@@ -1,0 +1,1 @@
+<script type="text/javascript" src="<?php echo assets_url_backmin('js'); ?>/plugins/moment.min.js"></script>

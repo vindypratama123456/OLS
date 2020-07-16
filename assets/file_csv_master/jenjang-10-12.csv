@@ -1,0 +1,805 @@
+ID,ISBN,judul,kategori,jumlah
+590,9789790689169,Kompetensi Berbahasa dan Sastra Indonesia,Kelas 10,0
+591,9789790680000,Belajar Efektif Bahasa Indonesia,Kelas 10,0
+592,9789790688315,Biologi,Kelas 10,0
+593,9789790688025,Fisika,Kelas 10,0
+594,9789790688193,Panduan Pembelajaran Fisika,Kelas 10,0
+596,9789790687905,Geografi 1,Kelas 10,0
+598,9789790687424,Sosiologi,Kelas 10,0
+599,9789790687370,Sosiologi 1 Menyelami Fenomena Sosial di Masyarakat,Kelas 10,0
+600,9799790687424,Sosiologi 1,Kelas 10,0
+601,9789790687424,Sosiologi,Kelas 10,0
+619,1234567891237,Anatomi Hewan,Kelas 10,0
+620,1234567891238,Anatomi Hewan,Kelas 10,0
+622,1234567891231,Kesehatan Biota Air,Kelas 10,0
+623,1234567891231,Pengelolaan Kualitas Air,Kelas 10,0
+624,1234567891231,Pengelolaan Kualitas Air,Kelas 10,0
+625,1234567891231,Dasar-dasar Pemeliharaan Ternak,Kelas 10,0
+626,1234567891231,Kesehatan Biota Air,Kelas 10,0
+627,1234567891231,Kesehatan Biota Air,Kelas 10,0
+628,1234567891231,Keamanan Pangan,Kelas 10,0
+629,1234567891231,Keamanan Pangan,Kelas 10,0
+630,1234567891231,Fisiologi Hewan,Kelas 10,0
+631,1234567891231,Fisiologi Hewan,Kelas 10,0
+632,1234567891232,KESELAMATAN KESEHATAN KERJA DAN LH 2,Kelas 10,0
+633,1234567891232,KESELAMATAN KESEHATAN KERJA DAN LH 1,Kelas 10,0
+634,1234567891232,Produksi Pakan Buatan 2,Kelas 10,0
+635,1234567891232,Produksi Pakan Buatan 1,Kelas 10,0
+638,1234567891232,Produksi Makanan dan Minuman Herbal,Kelas 10,0
+639,1234567891232,Reproduksi Hewan 2,Kelas 10,0
+640,1234567891232,Reproduksi Hewan 1,Kelas 10,0
+641,1234567891232,Olah Tubuh Tari2,Kelas 10,0
+642,1234567891233,Pengetahuan Seni Tari 1,Kelas 10,0
+643,1234567891233,Rekayasa dan Pemodelan Furniture 2,Kelas 10,0
+644,1234567891233,Rekayasa dan Pemodelan Furniture 1,Kelas 10,0
+645,1234567891233,Teknik Dasar Elektronika Komunikasi,Kelas 10,0
+646,1234567891233,Teknik Dasar Elektronika Komunikasi,Kelas 10,0
+647,1234567891233,Teknik Dasar Listrik Telekomunikasi,Kelas 10,0
+648,1234567891233,Teknik Dasar Listrik Telekomunikasi,Kelas 10,0
+649,1234567891233,Teknik Kerja Bengkel Telekomunikasi,Kelas 10,0
+650,1234567891233,Teknik Kerja Bengkel Telekomunikasi,Kelas 10,0
+651,1234567891233,Administrasi Server,Kelas 10,0
+652,1234567891234,Administrasi Server,Kelas 10,0
+653,1234567891234,Pemrograman Web,Kelas 10,0
+654,1234567891234,Pemrograman Web,Kelas 10,0
+655,1234567891234,Jaringan Dasar,Kelas 10,0
+656,1234567891234,Jaringan Dasar,Kelas 10,0
+657,1234567891234,Sistem Operasi,Kelas 10,0
+659,1234567891234,Simulasi Digital,Kelas 10,0
+660,1234567891234,Simulasi Digital,Kelas 10,0
+661,1234567891234,Perakitan Komputer,Kelas 10,0
+662,1234567891235,Perakitan Komputer,Kelas 10,0
+663,1234567891235,Rangkaian Elektronika Analog,Kelas 10,0
+665,1234567891235,Pengelolaan Kualitas Air 2,Kelas 10,0
+666,1234567891235,Pengelolaan Kualitas Air 1,Kelas 10,0
+667,1234567891235,Penanganan Material,Kelas 10,0
+668,1234567891235,TeknikKelistrikandanElektronikaInstrumentasi,Kelas 10,0
+669,1234567891235,TeknikKelistrikandanElektronikaInstrumentasi,Kelas 10,0
+670,1234567891235,Teknologi Bahan Furnitur,Kelas 10,0
+671,1234567891235,Teknologi Bahan Furnitur,Kelas 10,0
+672,1234567891236,MekanikaTeknik,Kelas 10,0
+673,1234567891236,Kelistrikan Mesin,Kelas 10,0
+674,1234567891236,Geologi Dasar,Kelas 10,0
+675,1234567891236,Geologi Dasar,Kelas 10,0
+676,1234567891236,Mekanika Teknik dan Elemen Mesin,Kelas 10,0
+677,1234567891236,Paleontologi,Kelas 10,0
+678,1234567891236,Paleontologi,Kelas 10,0
+679,1234567891236,Ilmu Batuan,Kelas 10,0
+680,1234567891236,Ilmu Batuan,Kelas 10,0
+681,1234567891236,Rekayasa dan Pemodelan Furnitur,Kelas 10,0
+682,1234567891237,Rekayasa dan Pemodelan Furnitur,Kelas 10,0
+683,1234567891237,Batuan,Kelas 10,0
+684,1234567891237,Batuan,Kelas 10,0
+685,1234567891237,Analisis Perancangan Kerja,Kelas 10,0
+686,1234567891237,Analisis Perancangan Kerja,Kelas 10,0
+687,1234567891237,Teknik Dasar Pekerjaan Laboratorium Kimia,Kelas 10,0
+688,1234567891237,Teknik Dasar Pekerjaan Laboratorium Kimia,Kelas 10,0
+689,1234567891237,Mikrobiologi,Kelas 10,0
+690,1234567891237,Mikrobiologi,Kelas 10,0
+691,1234567891237,Analisis Kimia Dasar,Kelas 10,0
+692,1234567891238,Analisis Kimia Dasar,Kelas 10,0
+693,1234567891238,Kimia Organik,Kelas 10,0
+694,1234567891238,Kimia Organik,Kelas 10,0
+695,1234567891238,Paleontologi,Kelas 10,0
+696,1234567891238,Paleontologi,Kelas 10,0
+697,1234567891238,Pekerjaan Dasar Elektromekanika,Kelas 10,0
+698,1234567891238,Mekanika Teknik,Kelas 10,0
+699,1234567891238,Mekanika Teknik,Kelas 10,0
+700,1234567891238,Mekanika Teknik,Kelas 10,0
+701,1234567891238,Lumpur dan Hidrolika Lumpur Pengeboran,Kelas 10,0
+702,1234567891239,Konversi Energi,Kelas 10,0
+703,1234567891239,K3 dan Lingkungan Hidup,Kelas 10,0
+704,1234567891239,K3 dan Lingkungan Hidup,Kelas 10,0
+705,1234567891239,Keselamatan Kerja dan Kesehatan Lingkungan,Kelas 10,0
+706,1234567891239,Keselamatan Kerja dan Kesehatan Lingkungan,Kelas 10,0
+707,1234567891239,K3 dan Sikap Kerja,Kelas 10,0
+708,1234567891239,Kelistrikan Mesin,Kelas 10,0
+709,1234567891239,Geologi Dasar,Kelas 10,0
+710,1234567891239,Geologi Dasar,Kelas 10,0
+711,1234567891239,Teknologi Mekanik,Kelas 10,0
+712,1234567891231,Mekanika dan Elemen Mesin,Kelas 10,0
+713,1234567891231,Perekayasaan Sistem Audio,Kelas 10,0
+714,1234567891231,Perekayasaan Sistem Audio,Kelas 10,0
+715,1234567891231,Perekayasaan Sistem Kontrol,Kelas 10,0
+716,1234567891231,Sensor dan Aktuator,Kelas 10,0
+717,1234567891231,Teknik Mikroprosesor,Kelas 10,0
+718,1234567891231,Teknik Mikroprosesor,Kelas 10,0
+719,1234567891231,Teknik Kerja Bengkel,Kelas 10,0
+720,1234567891231,Teknik Las SMAW,Kelas 10,0
+721,1234567891231,Teknik Las SMAW,Kelas 10,0
+722,1234567891231,Teknik Dasar pengerjaan Logam,Kelas 10,0
+723,1234567891231,Teknik Dasar pengerjaan Logam,Kelas 10,0
+724,1234567891231,Teknik Listrik Dasar otomotif,Kelas 10,0
+725,1234567891231,Pekerjaan Teknik Dasar otomotif,Kelas 10,0
+726,1234567891231,Pekerjaan Teknik Dasar otomotif,Kelas 10,0
+727,1234567891231,Teknologi Dasar otomotif,Kelas 10,0
+728,1234567891231,Teknologi Dasar otomotif,Kelas 10,0
+841,9794629731,Developing English Competencies For Senior School (SMA MA) Grade  X,Kelas 10,0
+842,9789790681361,Panduan Pembelajaran Biologi Untuk SMA & MA Kelas X,Kelas 10,0
+843,9789790681798,Kimia Untuk SMA MA Kelas X,Kelas 10,0
+844,9789790681408,Geografi X SMA,Kelas 10,0
+845,9789790681927,Ekonomi Untuk SMA MA Kelas X,Kelas 10,0
+846,9789790682184,Sosiologi Kontekstual  untuk SMA & MA kelas X,Kelas 10,0
+847,9789790950054,Pendidikan Jasmani olahraga dan kesehatan untuk SMA MA SMK kelas X,Kelas 10,0
+867,9794628670,Bahasa Indonesia 1 kelas X SMK MAK Semua Program Keahlian,Kelas 10,0
+868,9794629324,English For SMK 1 Grade X,Kelas 10,0
+869,9786028320733,Matematika SMK Bisnis dan Manajemen Jilid 1,Kelas 10,0
+870,9786028320238,Fisika SMK Non Teknologi Jilid 1,Kelas 10,0
+871,9786028320269,Fisika SMK  Teknologi Jilid 1,Kelas 10,0
+872,9786028320344,Ilmu Pengetahuan Sosial (IPS) Jilid 1,Kelas 10,0
+873,9786028320009,Agribisnis Ternak Ruminansia Jilid 1,Kelas 10,0
+874,9786028320047,Akomodasi Perhotelan Jilid 1,Kelas 10,0
+875,9786028320191,Budidaya Ikan Jilid 1,Kelas 10,0
+876,9786028320375,Kesekretarisan Jilid 1,Kelas 10,0
+877,9786028320450,Kimia Jilid 1,Kelas 10,0
+878,9786028320481,Kimia Kesehatan Jilid 1,Kelas 10,0
+879,9786028320511,Konsep Dasar Akuntansi dan Pelaporan Keuangan Jilid 1,Kelas 10,0
+880,9786028320665,Kriya Tekstil Jilid 1,Kelas 10,0
+881,9786028320887,Pekerjaan Sosial Jilid 1,Kelas 10,0
+882,9786028320924,Pengawasan Mutu Bahan Produk Pangan Jilid 1,Kelas 10,0
+883,9786028320955,Penjualan Jilid 1,Kelas 10,0
+884,9789790600072,Rekayasa Perangkat Lunak Jilid 1,Kelas 10,0
+885,9789790600218,Seni Rupa Jilid 1,Kelas 10,0
+886,9789790600324,Sistem Refrigasi dan Tata Udara Jilid 1,Kelas 10,0
+887,9789790600355,Tata Busana Jilid 1,Kelas 10,0
+888,9789790600478,Teknik Alat Berat Jilid 1,Kelas 10,0
+889,9789790600591,Teknik Distribusi Tenaga Listrik Jilid 1,Kelas 10,0
+890,9789790600676,Teknik Grafika dan Industri Grafika Jilid 1,Kelas 10,0
+891,9789790601321,Teknik Perencanaan Gizi Makanan Jilid 1,Kelas 10,0
+892,9789790601437,Teknik Sepeda Motor Jilid 1,Kelas 10,0
+893,9789790601635,Teknologi Pangan Jilid 1,Kelas 10,0
+894,9789790601666,Usaha Jasa Pariwisata Jilid 1,Kelas 10,0
+897,9786028320238,Fisika SMK Non Teknologi Jilid 2,Kelas 10,0
+898,9786028320269,Fisika SMK  Teknologi Jilid 2,Kelas 10,0
+899,9786028320344,Ilmu Pengetahuan Sosial (IPS) Jilid 2,Kelas 10,0
+903,9786028320450,Kimia Jilid 2,Kelas 10,0
+918,9786028320269,Fisika SMK  Teknologi Jilid 3,Kelas 10,0
+924,9786028320481,Kimia Kesehatan Jilid 3,Kelas 10,0
+939,9792815610,Buku Siswa Biologi Untuk SMA MA Kelas X Kurikulum 2013,Kelas 10,0
+940,9792815771,Buku Siswa Fisika untuk SMA MA Kelas X Kurikulum 2013,Kelas 10,0
+941,,Buku Siswa Sejarah Kls X Kurikulum 2013,Kelas 10,0
+942,9796625697,Buku Siswa Sosiologi Untuk SMA MA Kelas X Kurikulum 2013 Peminatan Ilmu-Ilmu Sosial,Kelas 10,0
+943,9796625611,Buku Siswa Ekonomi untuk SMA MA kelas X kurikulum 2013,Kelas 10,0
+944,9792815658,Buku Guru Biologi untuk SMA MA Kelas X Kurikulum 2013 Peminatan Matematika dan Ilmu-Ilmu Alam,Kelas 10,0
+945,9792815818,Buku Guru Fisika untuk SMA MA Kelas X Kurikulum 2013 Peminatan Matematika dan Ilmu-Ilmu Alam,Kelas 10,0
+946,9789796625642,Buku Guru Ekonomi Untuk SMA MA Kelas X Kurikulum 2013,Kelas 10,0
+1045,9786022824718,Pendidikan Pancasila dan Kewarganegaraan SMA MA SMK MAK Kelas X Semester 1,Kelas 10,0
+1046,9786022824718,Pendidikan Pancasila dan Kewarganegaraan SMA MA SMK MAK Kelas X Semester 2,Kelas 10,0
+1047,9786022824879,Bahasa Indonesia Ekspresi Diri dan Akademik SMA MA SMK MAK Kelas X,Kelas 10,0
+1048,9786022824794,Bahasa Inggris SMA MA  SMK MAK Kelas X Semester 1,Kelas 10,0
+1049,9786022824790,Bahasa Inggris SMA MA  SMK MAK Kelas X Semester 2,Kelas 10,0
+1050,9786022824961,Sejarah Indonesia SMA MA SMK MAK Kelas X Semester 2 Edisi Revisi,Kelas 10,0
+1051,9786022824640,Pendidikan Jasmani Olahraga dan Kesehatan SMA MA  SMK MAK Kelas X,Kelas 10,0
+1052,9786022824572,Seni Budaya SMA MA  SMK MAK  Kelas X,Kelas 10,0
+1053,9786022824015,Pendidikan Agama Islam dan Budi Pekerti SMA MA  SMK MAK Kelas X,Kelas 10,0
+1054,9786022824176,Pendidikan Agama Katolik dan Budi Pekerti SMA SMK Kelas X,Kelas 10,0
+1093,9789790956704,Pendidikan Kewarganegaraan untuk SMA/MA kelas X,Kelas 10,0
+1094,9789790680616,SEJARAH untuk SMA/MA kelas X,Kelas 10,0
+1119,,Pendidikan Agama Islam  kelas 10,Kelas 10,0
+1120,,Kompetensi Fisika,Kelas 10,0
+1122,,Teknologi Informasi dan Komunikasi X,Kelas 10,0
+1136,9796028320085,Akuntansi Industri Jilid 1,Kelas 10,0
+1137,9786028320115,Alat Ukur dan Teknik Pengukuran Jilid 1,Kelas 10,0
+1138,9786028320559,Kriya Kayu Jilid 1,Kelas 10,0
+1139,9786028320580,Kriya Keramik Jilid 1,Kelas 10,0
+1140,9786028320702,Marketing Jilid 1,Kelas 10,0
+1141,9786028320771,Nautika Kapal Penangkap Ikan Jilid 1,Kelas 10,0
+1142,9786028320818,Patiseri Jilid 1,Kelas 10,0
+1143,9789790600034,Restoran Jilid 1,Kelas 10,0
+1144,9789790600140,Seni Musik Klasik Jilid 1,Kelas 10,0
+1145,9789790600249,Seni Tari Jilid 1,Kelas 10,0
+1146,9789790600294,Seni Teater Jilid 1,Kelas 10,0
+1147,9789790600393,Tata Kecantikan Kulit Jilid 1,Kelas 10,0
+1148,9789790600430,Tata Kecantikan Rambut Jilid 1,Kelas 10,0
+1149,9789790600973,Teknik Pembangkit Tenaga Listrik Jilid 1,Kelas 10,0
+1150,9789790600515,Teknik Bodi Otomotif Jilid 1,Kelas 10,0
+1151,9789790600553,Teknik Budidaya Tanaman Jilid 1,Kelas 10,0
+1152,9789790600638,Teknik Gambar Bangunan Jilid 1,Kelas 10,0
+1153,9789790600751,Teknik Konstruksi Bangunan Gedung Jilid 1,Kelas 10,0
+1154,9789790600812,Teknik Listrik Industri Jilid 1,Kelas 10,0
+1155,9789790600850,Teknik Mesin Industri Jilid 1,Kelas 10,0
+1156,9789790600898,Teknik Otomasi Industri Jilid 1,Kelas 10,0
+1157,9789790600935,Teknik Pemanfaatan Tenaga Listrik Jilid 1,Kelas 10,0
+1158,9789790601017,Teknik Pembentukan Pelat Jilid 1,Kelas 10,0
+1159,9789790601055,Teknik Pembibitan Tanaman dan Produksi Benih Jilid 1,Kelas 10,0
+1160,9789790601116,Teknik Pemeliharaan dan Perbaikan Sistem Elektronika Jilid 1,Kelas 10,0
+1161,9789790601154,Teknik Pemesinan Jilid 1,Kelas 10,0
+1162,9789790601291,Teknik Penyiaran & Produksi Program Radio Televisi dan Film Jilid 1,Kelas 10,0
+1163,9789790601369,Teknik Perkayuan Jilid 1,Kelas 10,0
+1164,9789790601390,Teknik Produksi Mesin Industri Jilid 1,Kelas 10,0
+1165,9789790601475,Teknik Struktur Bangunan Jilid 1,Kelas 10,0
+1166,9789790601512,Teknik Survei dan Pemetaan Jilid 1,Kelas 10,0
+1167,9789790601598,Teknik Transmisi Tenaga Listrik Jilid 1,Kelas 10,0
+1168,9789790600119,Seni Budaya Jilid 2,Kelas 10,0
+1170,9786028320153,Biologi Pertanian untuk Sekolah Menengah Kejuruan Jilid 2,Kelas 10,0
+1175,9786028320481,Kimia Kesehatan Jilid 2,Kelas 10,0
+1208,9786028320153,Biologi Pertanian untuk Sekolah Menengah Kejuruan Jilid 3,Kelas 10,0
+1345,9786022824916,Matematika SMA MA SMK MAK Kelas X Semester 2 (Edisi Revisi 2014),Kelas 10,0
+1346,9786022824911,Sejarah Indonesia SMA MA SMK MAK Kelas X Semester 1,Kelas 10,0
+1347,9786022824497,Prakarya dan Kewirausahaan SMA MA SMK MAK Kelas X Semester 1,Kelas 10,0
+1348,9786022824091,Pendidikan Agama Kristen SMA MAK SMK MAK Kelas X,Kelas 10,0
+1349,9786022824251,Buku Siswa Pendidikan Agama Hindu dan Budi Pekerti SMA SMK Kelas X,Kelas 10,0
+1350,9786022824336,Buku Siswa Pendidikan Agama Budha dan Budi Pekerti SMA SMK Kelas X,Kelas 10,0
+1351,9786022824411,Buku Siswa Pendidikan Agama Konghucu dan Budi Pekerti SMA SMK Kelas X,Kelas 10,0
+1352,9796625895,Buku Guru Sejarah untuk SMA MA Kelas X Kurikulum 2013 Peminatan Ilmu-Ilmu Sosial,Kelas 10,0
+1353,9796625734,Buku Guru Sosiologi untuk SMA MA Kelas X Kurikulum 2013 Peminatan Ilmu-Ilmu Sosial,Kelas 10,0
+2472,9786022824718,Buku Siswa: Pendidikan Pancasila dan Kewarganegaraan SMA MA SMK MAK Kelas X Semester 1,Kelas 10,0
+2473,9786022824718,Buku Siswa: Pendidikan Pancasila dan Kewarganegaraan SMA MA SMK MAK Kelas X Semester 2,Kelas 10,0
+2474,9786022824879,Buku Siswa: Bahasa Indonesia Ekspresi Diri dan Akademik SMA MA SMK MAK Kelas X,Kelas 10,0
+2475,9786022824794,Buku Siswa: Bahasa Inggris SMA MA SMK MAK Kelas X Semester 1,Kelas 10,0
+2476,9786022824790,Buku Siswa: Bahasa Inggris SMA MA SMK MAK Kelas X Semester 2,Kelas 10,0
+2477,9786022824916,Buku Siswa: Matematika SMA MA SMK MAK Kelas X Semester 2 (Edisi Revisi 2014),Kelas 10,0
+2478,9786022824911,Buku Siswa: Sejarah Indonesia SMA MA SMK MAK Kelas X Semester 1,Kelas 10,0
+2479,9786022824961,Buku Siswa: Sejarah Indonesia SMA MA SMK MAK Kelas X Semester 2 Edisi Revisi,Kelas 10,0
+2480,9786022824640,Buku Siswa: Pendidikan Jasmani Olahraga dan Kesehatan SMA MA SMK MAK Kelas X,Kelas 10,0
+2481,9786022824572,Buku Siswa: Seni Budaya SMA MA SMK MAK Kelas X,Kelas 10,0
+2482,9786022824497,Buku Siswa: Prakarya dan Kewirausahaan SMA MA SMK MAK Kelas X Semester 1,Kelas 10,0
+2483,9786022824015,Buku Siswa: Pendidikan Agama Islam dan Budi Pekerti SMA MA SMK MAK Kelas X,Kelas 10,0
+2484,9786022824091,Buku Siswa: Pendidikan Agama Kristen SMA MAK SMK MAK Kelas X,Kelas 10,0
+2485,9786022824176,Buku Siswa: Pendidikan Agama Katolik dan Budi Pekerti SMA SMK Kelas X,Kelas 10,0
+2486,9786022824251,Buku Siswa: Pendidikan Agama Hindu dan Budi Pekerti SMA SMK Kelas X,Kelas 10,0
+2487,9786022824336,Buku Siswa: Pendidikan Agama Budha dan Budi Pekerti SMA SMK Kelas X,Kelas 10,0
+2488,9786022824411,Buku Siswa: Pendidikan Agama Konghucu dan Budi Pekerti SMA SMK Kelas X,Kelas 10,0
+2489,,Baud Basa Jawa Kelas X SMA,Kelas 10,0
+2490,9792815610,Buku Siswa: Biologi untuk SMA MA Kelas X Kurikulum 2013,Kelas 10,0
+2491,9792815771,Buku Siswa: Fisika untuk SMA MA Kelas X Kurikulum 2013,Kelas 10,0
+2493,9796625697,Buku Siswa: Sosiologi untuk SMA MA Kelas X Kurikulum 2013 Peminatan Ilmu-Ilmu Sosial,Kelas 10,0
+2494,9796625611,Buku Siswa: Ekonomi untuk SMA MA kelas X kurikulum 2013,Kelas 10,0
+2495,9792815658,Buku Guru: Biologi untuk SMA MA Kelas X Kurikulum 2013 Peminatan Matematika dan Ilmu-Ilmu Alam,Kelas 10,0
+2496,9792815818,Buku Guru: Fisika untuk SMA MA Kelas X Kurikulum 2013 Peminatan Matematika dan Ilmu-Ilmu Alam,Kelas 10,0
+2497,9796625895,Buku Guru: Sejarah untuk SMA MA Kelas X Kurikulum 2013 Peminatan Ilmu-Ilmu Sosial,Kelas 10,0
+2498,9796625734,Buku Guru: Sosiologi untuk SMA MA Kelas X Kurikulum 2013 Peminatan Ilmu-Ilmu Sosial,Kelas 10,0
+2499,9789796625642,Buku Guru: Ekonomi untuk SMA MA Kelas X Kurikulum 2013,Kelas 10,0
+2645,9789790956704,Pendidikan Kewarganegaraan untuk SMA MA kelas X,Kelas 10,0
+2646,9794629731,Developing English Competencies For Senior School (SMA MA) Grade X,Kelas 10,0
+2647,,Kompetensi Fisika Kelas X untuk SMA MA,Kelas 10,0
+2648,9789790681361,Panduan Pembelajaran Biologi untuk SMA & MA Kelas X,Kelas 10,0
+2649,9789790681798,Kimia untuk SMA MA Kelas X,Kelas 10,0
+2650,9789790680616,SEJARAH untuk SMA MA kelas X,Kelas 10,0
+2651,9789790681408,Geografi X SMA MA,Kelas 10,0
+2652,9789790681927,Ekonomi untuk SMA MA Kelas X,Kelas 10,0
+2653,9789790682184,Sosiologi Kontekstual untuk SMA & MA kelas X,Kelas 10,0
+2654,9789790950054,Pendidikan Jasmani olahraga dan kesehatan untuk SMA MA SMK kelas X,Kelas 10,0
+2655,,Teknologi Informasi dan Komunikasi SMA MA Kelas X,Kelas 10,0
+2656,9789792813005,Kulina Basa Jawa X SMA MA,Kelas 10,0
+2657,9789790956858,Pendidikan Agama Islam kelas 10 untuk SMA,Kelas 10,0
+2695,,Seni Tari untuk SMA MA Kelas X-XII,Kelas 10,0
+2696,9794628670,Bahasa Indonesia 1 untuk SMK MAK Semua Program Keahlian Kelas X,Kelas 10,0
+2697,9794629324,English For SMK 1 Grade X,Kelas 10,0
+2698,9786028320344,Ilmu Pengetahuan Sosial (IPS) Jilid 1 untuk SMK,Kelas 10,0
+2699,9786028320733,Matematika SMK Bisnis dan Manajemen Jilid 1,Kelas 10,0
+2700,9786028320238,Fisika SMK Non Teknologi Jilid 1,Kelas 10,0
+2701,9786028320269,Fisika SMK Teknologi Jilid 1,Kelas 10,0
+2702,9786028320450,Kimia Jilid 1 untuk SMK,Kelas 10,0
+2703,9786028320481,Kimia Kesehatan Jilid 1,Kelas 10,0
+2705,9789790600119,Seni Budaya Jilid 2 untuk SMK,Kelas 10,0
+2707,9786028320344,Ilmu Pengetahuan Sosial (IPS) Jilid 2 untuk SMK,Kelas 10,0
+2709,9786028320153,Biologi Pertanian untuk Sekolah Menengah Kejuruan Jilid 2,Kelas 10,0
+2710,9786028320238,Fisika SMK Non Teknologi Jilid 2,Kelas 10,0
+2711,9786028320269,Fisika SMK Teknologi Jilid 2,Kelas 10,0
+2712,9786028320450,Kimia Jilid 2 untuk SMK,Kelas 10,0
+2713,9786028320481,Kimia Kesehatan Jilid 2,Kelas 10,0
+2717,9786028320153,Biologi Pertanian untuk Sekolah Menengah Kejuruan Jilid 3,Kelas 10,0
+2718,9786028320269,Fisika SMK Teknologi Jilid 3,Kelas 10,0
+2719,9786028320481,Kimia Kesehatan Jilid 3,Kelas 10,0
+2720,9786028320115,Alat Ukur dan Teknik Pengukuran Jilid 1,Kelas 10,0
+2723,9786028320412,Kimia Industri Jilid 1,Kelas 10,0
+2726,9789790600005,Perancangan Sistem Kerja dan Ergonomi Industri Jilid 1,Kelas 10,0
+2728,9789790600324,Sistem Refrigasi dan Tata Udara Jilid 1,Kelas 10,0
+2730,9789790600478,Teknik Alat Berat Jilid 1,Kelas 10,0
+2733,9789790600515,Teknik Bodi Otomotif Jilid 1,Kelas 10,0
+2736,9789790600591,Teknik Distribusi Tenaga Listrik Jilid 1,Kelas 10,0
+2739,9789790600638,Teknik Gambar Bangunan Jilid 1,Kelas 10,0
+2742,9789790600676,Teknik Grafika dan Industri Grafika Jilid 1,Kelas 10,0
+2745,9789790600751,Teknik Konstruksi Bangunan Gedung Jilid 1,Kelas 10,0
+2747,9789790600782,Teknik Konstruksi Kapal Baja Jilid 1,Kelas 10,0
+2749,9789790600812,Teknik Listrik Industri Jilid 1,Kelas 10,0
+2752,9789790600850,Teknik Mesin Industri Jilid 1,Kelas 10,0
+2755,9789790600898,Teknik Otomasi Industri Jilid 1,Kelas 10,0
+2758,9789790600935,Teknik Pemanfaatan Tenaga Listrik Jilid 1,Kelas 10,0
+2761,9789790600973,Teknik Pembangkit Tenaga Listrik Jilid 1,Kelas 10,0
+2764,9789790601017,Teknik Pembentukan Pelat Jilid 1,Kelas 10,0
+2767,9789790601086,Teknik Pembuatan Benang dan Pembuatan Kain Jilid 1,Kelas 10,0
+2769,9789790601116,Teknik Pemeliharaan dan Perbaikan Sistem Elektronika Jilid 1,Kelas 10,0
+2772,9789790601154,Teknik Pemesinan Jilid 1,Kelas 10,0
+2774,9789790601185,Teknik Pencelupan dan Pencapan Jilid 1,Kelas 10,0
+2777,9789790601222,Teknik Pengecoran Jilid 1,Kelas 10,0
+2780,9789790601260,Teknik Pengelasan Kapal Jilid 1,Kelas 10,0
+2782,9789790601369,Teknik Perkayuan Jilid 1,Kelas 10,0
+2784,9789790601390,Teknik Produksi Mesin Industri Jilid 1,Kelas 10,0
+2787,9789790601437,Teknik Sepeda Motor Jilid 1,Kelas 10,0
+2790,9789790601475,Teknik Struktur Bangunan Jilid 1,Kelas 10,0
+2793,9789790601512,Teknik Survei dan Pemetaan Jilid 1,Kelas 10,0
+2796,9789790601550,Teknik Telekomunikasi Jilid 1,Kelas 10,0
+2799,9789790601598,Teknik Transmisi Tenaga Listrik Jilid 1,Kelas 10,0
+2802,9789790600072,Rekayasa Perangkat Lunak Jilid 1,Kelas 10,0
+2805,9789790600713,Teknik Grafis Komunikasi Jilid 1,Kelas 10,0
+2808,9789790601291,Teknik Penyiaran & Produksi Program Radio Televisi dan Film Jilid 1,Kelas 10,0
+2810,9786028320306,Ilmu Kesehatan Jilid 1,Kelas 10,0
+2812,9786028320887,Pekerjaan Sosial Jilid 1,Kelas 10,0
+2815,9786028320009,Agribisnis Ternak Ruminansia Jilid 1,Kelas 10,0
+2818,9786028320924,Pengawasan Mutu Bahan Produk Pangan Jilid 1,Kelas 10,0
+2820,9789790600553,Teknik Budidaya Tanaman Jilid 1,Kelas 10,0
+2823,9789790601055,Teknik Pembibitan Tanaman dan Produksi Benih Jilid 1,Kelas 10,0
+2825,9789790601635,Teknologi Pangan Jilid 1,Kelas 10,0
+2827,9786028320191,Budidaya Ikan Jilid 1,Kelas 10,0
+2830,9786028320771,Nautika Kapal Penangkap Ikan Jilid 1,Kelas 10,0
+2833,9796028320085,Akuntansi Industri Jilid 1,Kelas 10,0
+2835,9786028320375,Kesekretarisan Jilid 1,Kelas 10,0
+2837,9786028320511,Konsep Dasar Akuntansi dan Pelaporan Keuangan Jilid 1,Kelas 10,0
+2840,9786028320702,Marketing Jilid 1,Kelas 10,0
+2842,9786028320955,Penjualan Jilid 1,Kelas 10,0
+2845,9786028320047,Akomodasi Perhotelan Jilid 1,Kelas 10,0
+2848,9786028320818,Patiseri Jilid 1,Kelas 10,0
+2851,9789790600034,Restoran Jilid 1,Kelas 10,0
+2854,9789790600355,Tata Busana Jilid 1,Kelas 10,0
+2857,9789790600393,Tata Kecantikan Kulit Jilid 1,Kelas 10,0
+2860,9789790600430,Tata Kecantikan Rambut Jilid 1,Kelas 10,0
+2863,9789790601321,Teknik Perencanaan Gizi Makanan Jilid 1,Kelas 10,0
+2866,9789790601666,Usaha Jasa Pariwisata Jilid 1,Kelas 10,0
+2868,9786028320559,Kriya Kayu Jilid 1,Kelas 10,0
+2870,9786028320580,Kriya Keramik Jilid 1,Kelas 10,0
+2873,9786028320627,Kriya Kulit Jilid 1,Kelas 10,0
+2876,9786028320665,Kriya Tekstil Jilid 1,Kelas 10,0
+2879,9789790600218,Seni Rupa Jilid 1,Kelas 10,0
+2881,9786028320856,Pedalangan Jilid 1,Kelas 10,0
+2883,9789790600140,Seni Musik Klasik Jilid 1,Kelas 10,0
+2885,9789790600171,Seni Musik Non Klasik Jilid 1,Kelas 10,0
+2888,9789790600249,Seni Tari Jilid 1,Kelas 10,0
+2891,9789790600294,Seni Teater Jilid 1,Kelas 10,0
+602,9789790689206,Belajar Efektif Bahasa Indonesia,Kelas 11,0
+603,9789790688315,Biologi,Kelas 11,0
+604,9789790687905,Geografi,Kelas 11,0
+605,9789790688582,Khazanah Matematika,Kelas 11,0
+606,9789790688544,Wahana Matematika (IPS),Kelas 11,0
+609,9789790687370,Sosiologi 2 Menyelami Fenomena Sosial di Masyarakat,Kelas 11,0
+610,9789790687424,Sosiologi,Kelas 11,0
+611,9789790687424,Sosiologi,Kelas 11,0
+729,1234567891231,Teknik Pembenihan Krustacea,Kelas 11,0
+730,1234567891231,Teknik Pembenihan Ikan,Kelas 11,0
+731,1234567891231,Agribisnis Ternak Unggas Petelur,Kelas 11,0
+732,1234567891231,Agribisnis Pembibitan Ternak Ruminasi,Kelas 11,0
+733,1234567891231,Agribisnis Ternak Ruminasia Pedaging,Kelas 11,0
+734,1234567891231,Agribisnis Ternak Ruminasia Perah,Kelas 11,0
+735,1234567891231,Agribisnis Pakan Ternak Unggas,Kelas 11,0
+736,1234567891231,Produksi Hasil Perkebunan,Kelas 11,0
+737,1234567891231,Produksi Hasil NabatI,Kelas 11,0
+738,1234567891231,Pengujian Mutu Pangan,Kelas 11,0
+739,1234567891231,Pengolahan Hasil Samping Pro Perikanan Rumput Laut,Kelas 11,0
+740,1234567891231,Pengolahan Hasil Perikanan Tradisional,Kelas 11,0
+741,1234567891231,Pengolahan Hasil Perikanan Standar Eksport,Kelas 11,0
+742,1234567891231,Pengolahan Diversifikasi Hasil Perikanan,Kelas 11,0
+743,1234567891231,Penanganan Bahan Hasil Pertanian dan Perikanan 2,Kelas 11,0
+744,1234567891231,Penanganan Bahan Hasil Pertanian dan Perikanan 1,Kelas 11,0
+745,1234567891231,Dasar Tari 1,Kelas 11,0
+746,1234567891231,Olah Tubuh Tari 1,Kelas 11,0
+747,1234567891231,Perekayasaan Sistem Radio dan Televisi 2,Kelas 11,0
+748,1234567891231,Perekayasaan Sistem Antena,Kelas 11,0
+749,1234567891231,Perekayasaan Sistem Antena,Kelas 11,0
+750,1234567891231,Perekayasaan Sistem Radio dan Televisi,Kelas 11,0
+751,1234567891231,Desain Multimedia,Kelas 11,0
+752,1234567891231,Desain Multimedia,Kelas 11,0
+753,1234567891231,Animasi 2D,Kelas 11,0
+754,1234567891231,Pengolahan Citra Digital,Kelas 11,0
+755,1234567891231,Pengolahan Citra Digital,Kelas 11,0
+756,1234567891231,Sistem Operasi Jaringan,Kelas 11,0
+757,1234567891231,Sistem Operasi Jaringan,Kelas 11,0
+758,1234567891231,Basis Data,Kelas 11,0
+759,1234567891231,Basis Data,Kelas 11,0
+760,1234567891231,Pemrograman Berorientasi Objek,Kelas 11,0
+761,1234567891231,Pemrograman Berorientasi Objek,Kelas 11,0
+762,1234567891231,Perawatan Engine Unit Alat Berat 6,Kelas 11,0
+763,1234567891231,Perawatan Engine Unit Alat Berat 5,Kelas 11,0
+764,1234567891231,Gardu Induk,Kelas 11,0
+765,1234567891231,Sistem dan Instalasi Tata Udara 4,Kelas 11,0
+766,1234567891231,Sistem dan Instalasi Tata Udara 3,Kelas 11,0
+767,1234567891231,Kontrol Refrijerasi dan Tata Udara 4,Kelas 11,0
+768,1234567891231,Kontrol Refrijerasi dan Tata Udara 3,Kelas 11,0
+769,1234567891231,Proses Pengolahan Migas dan Petrokimia,Kelas 11,0
+770,1234567891231,Power Train dan Hydraulic Alat Berat 4,Kelas 11,0
+771,1234567891231,Power Train dan Hydraulic Alat Berat 3,Kelas 11,0
+772,1234567891231,Power Train dan Hydraulic Alat Berat 3,Kelas 11,0
+773,1234567891231,Teknik Produksi Migas - Teknik Reservoir dan Cadangan Migas,Kelas 11,0
+774,1234567891231,Teknik Produksi Migas 4,Kelas 11,0
+775,1234567891231,Teknik Produksi Migas 3,Kelas 11,0
+776,1234567891231,Teknik Produksi Migas - Proses Produksi Migas,Kelas 11,0
+779,1234567891231,Perekayasaan Sistem Radio dan Televisi 2,Kelas 11,0
+780,1234567891231,Perekayasaan Sistem Antena,Kelas 11,0
+781,1234567891231,Perawatan Engine dan Unit Alat Berat 6,Kelas 11,0
+782,1234567891231,Perawatan Engine dan Unit Alat Berat 5,Kelas 11,0
+783,1234567891231,Peralatan Gudang 4,Kelas 11,0
+784,1234567891231,Peralatan Gudang 3,Kelas 11,0
+785,1234567891231,Pengujian Mutu Pangan,Kelas 11,0
+786,1234567891231,Pengolahan Hasil Samping Produksi Perikanan Rumput Laut,Kelas 11,0
+787,1234567891231,Pengolahan Hasil Perikanan Tradisional,Kelas 11,0
+788,1234567891231,Pengolahan Hasil Perikanan Standar Eksport,Kelas 11,0
+789,1234567891231,Pengolahan Diversifikasi Hasil Perikanan,Kelas 11,0
+790,1234567891231,Penanganan Bahan Hasil Pertanian dan Perikanan 2,Kelas 11,0
+791,1234567891231,Penanganan Bahan Hasil Pertanian dan Perikanan 1,Kelas 11,0
+792,1234567891231,Pemeliharaan Sasis Sepeda Motor,Kelas 11,0
+793,1234567891231,Teknik Penerangan Listrik 3,Kelas 11,0
+794,1234567891231,Aircraft Electrical System Assembly,Kelas 11,0
+795,1234567891231,Aircraft Manufacture & Assy Parts,Kelas 11,0
+796,1234567891231,Aircraft Component CNC Machining,Kelas 11,0
+797,1234567891231,Engine Management System (EMS),Kelas 11,0
+798,1234567891231,Teknik Perawatan dan Perbaikan Otomotif,Kelas 11,0
+799,1234567891231,Pneumatik & Hidrolik,Kelas 11,0
+800,1234567891231,Teknik Kontrol,Kelas 11,0
+801,1234567891231,Teknik Las GTAW,Kelas 11,0
+802,1234567891231,Aircraft System,Kelas 11,0
+803,1234567891231,Aircraft Instruments,Kelas 11,0
+804,1234567891231,Teknik Listrik,Kelas 11,0
+805,1234567891231,Chasis Management System (CMS),Kelas 11,0
+806,1234567891231,Comfort Safety and Information Technology (CSIT),Kelas 11,0
+807,1234567891231,Komunikasi Data dan  Interface,Kelas 11,0
+808,1234567891231,Aircraft Sheet Metal Forming,Kelas 11,0
+848,9789790956704,Pendidikan Kewarganegaraan Untuk SMA MA SMK Kelas XI,Kelas 11,0
+849,9794629782,Mahir Mengembangkan Kemampuan Matematika Untuk Kelas XI Sekolah Menengah Atas Madrasah Aliyah  Program Ilmu Pengetahuan Alam,Kelas 11,0
+850,9789790682337,Kompetensi Fisika untuk SMA MA Kelas XI,Kelas 11,0
+851,9789790681361,Panduan Pembelajaran Biologi Untuk SMA & MA Kelas XI,Kelas 11,0
+852,9789790681835,Kimia 2 untuk SMA MA Kelas XI,Kelas 11,0
+853,9789790952782,Gelangang Pendidikan Jasmani Olahraga dan Kesehatan untuk SMA MA kelas XI,Kelas 11,0
+854,9789790681927,Ekonomi Untuk SMA MA Kelas XI,Kelas 11,0
+855,9789790682078,Sosiologi 2 Untuk SMA MA Kelas XI Program IPS,Kelas 11,0
+856,9794628972,Inter Language  English For Senior High School Student XI Languange Study Programme,Kelas 11,0
+857,9794629103,Matematika untuk Sekolah Menengah Atas & Madrasah Aliyah XI Bahasa,Kelas 11,0
+895,9789794628689,Bahasa Indonesia 2 untuk SMK MAK semua program keahian kelas XI,Kelas 11,0
+900,9786028320009,Agribisnis Ternak Ruminansia Jilid 2,Kelas 11,0
+902,9786028320412,Kimia Industri Jilid 2,Kelas 11,0
+904,9786028320702,Marketing Jilid 2,Kelas 11,0
+905,9786028320771,Nautika Kapal Penangkap Ikan Jilid 2,Kelas 11,0
+906,9786028320887,Pekerjaan Sosial Jilid 2,Kelas 11,0
+907,9786028320955,Penjualan Jilid 2,Kelas 11,0
+908,9789790600072,Rekayasa Perangkat Lunak Jilid 2,Kelas 11,0
+909,9789790600164,Seni Musik Klasik Jilid 2,Kelas 11,0
+910,9789790600218,Seni Rupa Jilid 2,Kelas 11,0
+911,9789790600324,Sistem Refrigasi dan Tata Udara Jilid 2,Kelas 11,0
+912,9789790600355,Tata Busana Jilid 2,Kelas 11,0
+913,9789790600478,Teknik Alat Berat Jilid 2,Kelas 11,0
+914,9789790600676,Teknik Grafika dan Industri Grafika Jilid 2,Kelas 11,0
+915,,Teknik Perencanaan Gizi Makanan Jilid 2,Kelas 11,0
+926,,Antropologi - Kelas XI - SMA/MA,Kelas 11,0
+927,,Sejarah - Kelas XI - Program Bahasa,Kelas 11,0
+947,9792815627,Buku Siswa Biologi untuk SMA MA kelas XI Peminatan Matematika dan Ilmu-ilmu Alam,Kelas 11,0
+948,9792815788,Buku Siswa Fisika untuk SMA MA Kelas XI Peminatan Matematikan dan Ilmu-Ilmu Alam,Kelas 11,0
+949,9792815702,Buku Siswa Kimia untuk SMA MA Kelas XI Peminatan Matematika dan Ilmu-ilmu Alam,Kelas 11,0
+950,9796625864,Buku Siswa Sejarah Untuk SMA MA Kelas XI Peminatan Ilmu-Ilmu Sosial,Kelas 11,0
+951,9796625628,Buku Siswa Ekonomi untuk SMA MA Kelas XI (Peminatan Ilmu ilmu Sosial) Kur 13,Kelas 11,0
+952,9792815658,Buku Guru Biologi untuk SMA MA Kelas XI Peminatan Matematika dan Ilmu-ilmu Alam,Kelas 11,0
+953,9792815825,Buku Guru Fisika untuk SMA MA Kelas XI Peminatan Matematika dan Ilmu-ilmu Alam,Kelas 11,0
+954,9792815740,Buku Guru Kimia untuk SMA MA kelas XI,Kelas 11,0
+955,9796625901,Buku Guru Sejarah untuk SMA MA Kelas XI Peminatan Ilmu-ilmu Sosial,Kelas 11,0
+956,9796625666,Buku Guru Ekonomi untuk SMA MA Kelas XI Peminatan Ilmu-ilmu Sosial,Kelas 11,0
+1055,9786022824718,Pendidikan Pancasila dan Kewarganegaraan SMA MA SMK MAK Kelas 11 Semester 2,Kelas 11,0
+1056,9786022820956,Matematika SMA MAK SMK MAK Kelas XI Semester 2,Kelas 11,0
+1057,9786022824640,Pendidikan Jasmani Olahraga dan Kesehatan SMA MAK SMK MAK Kelas XI Semester 2,Kelas 11,0
+1058,,Seni Budaya SMA MA SMK MAK Kelas XI Semester 1,Kelas 11,0
+1059,9786022824572,Seni Budaya SMA MA SMK MAK Kelas XI Semester 2,Kelas 11,0
+1060,9786022824015,Pendidikan Agama Islam dan Budi Pekerti SMA MA SMK MAK Kelas 11,Kelas 11,0
+1123,,Pendidikan Agama Islam untuk SMA kelas XI,Kelas 11,0
+1124,9794628964,Interlanguage English for Senior High School Students XI (IPA IPS),Kelas 11,0
+1125,,Sejarah untuk SMA MA Program Ilmu Pengetahuan Alam Kelas XI,Kelas 11,0
+1126,,Teknologi Informasi dan Komunikasi XI,Kelas 11,0
+1127,,Geografi,Kelas 11,0
+1128,,Terampil Berbahasa Indonesia (Bhs),Kelas 11,0
+1169,9786028320733,Matematika SMK Bisnis dan Manajemen Jilid 2,Kelas 11,0
+1171,9786028320047,Akomodasi Perhotelan Jilid 2,Kelas 11,0
+1172,9786028320115,Alat Ukur dan Teknik Pengukuran Jilid 2,Kelas 11,0
+1173,9786028320191,Budidaya Ikan Jilid 2,Kelas 11,0
+1174,9786028320306,Ilmu Kesehatan Jilid 2,Kelas 11,0
+1176,9786028320559,Kriya Kayu Jilid 2,Kelas 11,0
+1177,9786028320580,Kriya Keramik Jilid 2,Kelas 11,0
+1178,9786028320665,Kriya Tekstil Jilid 2,Kelas 11,0
+1179,9786028320818,Patiseri Jilid 2,Kelas 11,0
+1180,9786028320924,Pengawasan Mutu Bahan Produk Pangan Jilid 2,Kelas 11,0
+1181,9789790600034,Restoran Jilid 2,Kelas 11,0
+1182,9789790600249,Seni Tari Jilid 2,Kelas 11,0
+1183,9789790600294,Seni Teater Jilid 2,Kelas 11,0
+1184,9789790600393,Tata Kecantikan Kulit Jilid 2,Kelas 11,0
+1185,9789790600430,Tata Kecantikan Rambut Jilid 2,Kelas 11,0
+1186,9789790600973,Teknik Pembangkit Tenaga Listrik Jilid 2,Kelas 11,0
+1187,9789790600515,Teknik Bodi Otomotif Jilid 2,Kelas 11,0
+1188,9789790600553,Teknik Budidaya Tanaman Jilid 2,Kelas 11,0
+1189,9789790600591,Teknik Distribusi Tenaga Listrik Jilid 2,Kelas 11,0
+1190,9789790600638,Teknik Gambar Bangunan Jilid 2,Kelas 11,0
+1191,9789790600751,Teknik Konstruksi Bangunan Gedung Jilid 2,Kelas 11,0
+1192,9789790600812,Teknik Listrik Industri Jilid 2,Kelas 11,0
+1193,9789790600850,Teknik Mesin Industri Jilid 2,Kelas 11,0
+1194,9789790600898,Teknik Otomasi Industri Jilid 2,Kelas 11,0
+1195,9789790600935,Teknik Pemanfaatan Tenaga Listrik Jilid 2,Kelas 11,0
+1196,9789790601017,Teknik Pembentukan Pelat Jilid 2,Kelas 11,0
+1197,9789790601055,Teknik Pembibitan Tanaman dan Produksi Benih Jilid 2,Kelas 11,0
+1198,9789790601116,Teknik Pemeliharaan dan Perbaikan Sistem Elektronika Jilid 2,Kelas 11,0
+1199,9789790601154,Teknik Pemesinan Jilid 2,Kelas 11,0
+1200,9789790601291,Teknik Penyiaran & Produksi Program Radio Televisi dan Film Jilid 2,Kelas 11,0
+1201,9789790601390,Teknik Produksi Mesin Industri Jilid 2,Kelas 11,0
+1202,9789790601437,Teknik Sepeda Motor Jilid 2,Kelas 11,0
+1203,9789790601475,Teknik Struktur Bangunan Jilid 2,Kelas 11,0
+1204,9789790601512,Teknik Survei dan Pemetaan Jilid 2,Kelas 11,0
+1205,9789790601598,Teknik Transmisi Tenaga Listrik Jilid 2,Kelas 11,0
+1206,9789790601635,Teknologi Pangan Jilid 2,Kelas 11,0
+1207,9789790601666,Usaha Jasa Pariwisata Jilid 2,Kelas 11,0
+1354,9786022824718,Pendidikan Pancasila dan Kewarganegaraan SMA MA SMK MAK Kelas 11 Semester 1,Kelas 11,0
+1355,9786022820994,Bahasa Indonesia Ekspresi Diri dan Akademik SMA MA SMK MAK Kelas 11 Semester 1,Kelas 11,0
+1356,9786022821090,Sejarah Indonesia SMA MAK SMK MAK Kelas XI Semester 1,Kelas 11,0
+1357,9786022824091,Pendidikan Agama Kristen dan Budi Pekerti SMA SMK Kelas 11,Kelas 11,0
+1358,9786022824251,Buku Siswa Pendidikan Agama Hindu dan Budi Pekerti SMA MAK SMK MAK Kelas XI,Kelas 11,0
+1359,9786022824336,Buku Siswa Pendidikan Agama Budha dan Budi Pekerti SMA MAK SMK MAK Kelas XI,Kelas 11,0
+1360,9786022824411,Buku Siswa Pendidikan Agama Konghucu dan Budi Pekerti SMA MAK SMK MAK Kelas XI,Kelas 11,0
+2500,9786022824718,Buku Siswa: Pendidikan Pancasila dan Kewarganegaraan SMA MA SMK MAK Kelas 11 Semester 1,Kelas 11,0
+2501,9786022824718,Buku Siswa: Pendidikan Pancasila dan Kewarganegaraan SMA MA SMK MAK Kelas 11 Semester 2,Kelas 11,0
+2502,9786022820994,Buku Siswa: Bahasa Indonesia Ekspresi Diri dan Akademik SMA MA SMK MAK Kelas 11 Semester 1,Kelas 11,0
+2503,9786022820956,Buku Siswa: Matematika SMA MAK SMK MAK Kelas XI Semester 2,Kelas 11,0
+2504,9786022821090,Buku Siswa: Sejarah Indonesia SMA MAK SMK MAK Kelas XI Semester 1,Kelas 11,0
+2505,9786022824640,Buku Siswa: Pendidikan Jasmani Olahraga dan Kesehatan SMA MAK SMK MAK Kelas XI Semester 2,Kelas 11,0
+2506,,Buku Siswa: Seni Budaya SMA MA SMK MAK Kelas XI Semester 1,Kelas 11,0
+2507,9786022824572,Buku Siswa: Seni Budaya SMA MA SMK MAK Kelas XI Semester 2,Kelas 11,0
+2508,9786022824015,Buku Siswa: Pendidikan Agama Islam dan Budi Pekerti SMA MA SMK MAK Kelas 11,Kelas 11,0
+2509,9786022824091,Buku Siswa: Pendidikan Agama Kristen dan Budi Pekerti SMA SMK Kelas 11,Kelas 11,0
+2510,9786022824251,Buku Siswa: Pendidikan Agama Hindu dan Budi Pekerti SMA MAK SMK MAK Kelas XI,Kelas 11,0
+2511,9786022824336,Buku Siswa: Pendidikan Agama Budha dan Budi Pekerti SMA MAK SMK MAK Kelas XI,Kelas 11,0
+2512,9786022824411,Buku Siswa: Pendidikan Agama Konghucu dan Budi Pekerti SMA MAK SMK MAK Kelas XI,Kelas 11,0
+2513,,Baud Basa Jawa Kelas XI SMA,Kelas 11,0
+2514,9792815627,Buku Siswa: Biologi untuk SMA MA kelas XI Peminatan Matematika dan Ilmu-ilmu Alam,Kelas 11,0
+2515,9792815788,Buku Siswa: Fisika untuk SMA MA Kelas XI Peminatan Matematikan dan Ilmu-Ilmu Alam,Kelas 11,0
+2516,9792815702,Buku Siswa: Kimia untuk SMA MA Kelas XI Peminatan Matematika dan Ilmu-ilmu Alam,Kelas 11,0
+2517,9796625864,Buku Siswa: Sejarah untuk SMA MA Kelas XI Peminatan Ilmu-Ilmu Sosial,Kelas 11,0
+2518,9796625628,Buku Siswa: Ekonomi untuk SMA MA Kelas XI (Peminatan Ilmu ilmu Sosial) Kur 13,Kelas 11,0
+2519,9792815658,Buku Guru: Biologi untuk SMA MA Kelas XI Peminatan Matematika dan Ilmu-ilmu Alam,Kelas 11,0
+2520,9792815825,Buku Guru: Fisika untuk SMA MA Kelas XI Peminatan Matematika dan Ilmu-ilmu Alam,Kelas 11,0
+2521,9792815740,Buku Guru: Kimia untuk SMA MA kelas XI,Kelas 11,0
+2522,9796625901,Buku Guru: Sejarah untuk SMA MA Kelas XI Peminatan Ilmu-ilmu Sosial,Kelas 11,0
+2523,9796625666,Buku Guru: Ekonomi untuk SMA MA Kelas XI Peminatan Ilmu-ilmu Sosial,Kelas 11,0
+2658,9789790956704,Pendidikan Kewarganegaraan untuk SMA MA SMK Kelas XI,Kelas 11,0
+2659,9794628964,Interlanguage English for Senior High School Students XI (IPA IPS),Kelas 11,0
+2660,9794629782,Mahir Mengembangkan Kemampuan Matematika untuk Kelas XI SMA MA Program IPA,Kelas 11,0
+2661,9789790682337,Kompetensi Fisika untuk SMA MA Kelas XI,Kelas 11,0
+2662,9789790681361,Panduan Pembelajaran Biologi untuk SMA & MA Kelas XI,Kelas 11,0
+2663,9789790681835,Kimia 2 untuk SMA MA Kelas XI,Kelas 11,0
+2664,,Sejarah Kelas XI untuk SMA MA Program IPA,Kelas 11,0
+2665,9789790952782,Gelangang Pendidikan Jasmani Olahraga dan Kesehatan untuk SMA MA kelas XI,Kelas 11,0
+2666,,Teknologi Informasi dan Komunikasi untuk SMA MA Kelas XI,Kelas 11,0
+2667,9789792813012,Kulina Basa Jawa XI SMA MA,Kelas 11,0
+2668,9789790681408,Geografi untuk Kelas XI SMA MA,Kelas 11,0
+2669,9789790681927,Ekonomi untuk SMA MA Kelas XI,Kelas 11,0
+2670,9789790682078,Sosiologi 2 untuk SMA MA Kelas XI Program IPS,Kelas 11,0
+2671,9794629014,Terampil Berbahasa Indonesia Program Bahasa untuk Kelas XI SMA MA,Kelas 11,0
+2672,9794628972,Inter Language English For Senior High School Student XI Languange Study Programme,Kelas 11,0
+2673,9794629103,Matematika untuk Sekolah Menengah Atas & Madrasah Aliyah XI Bahasa,Kelas 11,0
+2674,9789790682221,Antropologi Kelas XI untuk SMA MA Program Bahasa,Kelas 11,0
+2675,9789790680616,Sejarah Kelas XI untuk SMA MA Program Bahasa,Kelas 11,0
+2676,9789792813012,Pendidikan Agama Islam untuk SMA kelas XI,Kelas 11,0
+2704,9789794628689,Bahasa Indonesia 1 untuk SMK MAK Semua Program Keahlian Kelas XI,Kelas 11,0
+2708,9786028320733,Matematika SMK Bisnis dan Manajemen Jilid 2,Kelas 11,0
+2721,9786028320115,Alat Ukur dan Teknik Pengukuran Jilid 2,Kelas 11,0
+2724,9786028320412,Kimia Industri Jilid 2,Kelas 11,0
+2727,9789790600005,Perancangan Sistem Kerja dan Ergonomi Industri Jilid 2,Kelas 11,0
+2729,9789790600324,Sistem Refrigasi dan Tata Udara Jilid 2,Kelas 11,0
+2731,9789790600478,Teknik Alat Berat Jilid 2,Kelas 11,0
+2734,9789790600515,Teknik Bodi Otomotif Jilid 2,Kelas 11,0
+2737,9789790600591,Teknik Distribusi Tenaga Listrik Jilid 2,Kelas 11,0
+2740,9789790600638,Teknik Gambar Bangunan Jilid 2,Kelas 11,0
+2743,9789790600676,Teknik Grafika dan Industri Grafika Jilid 2,Kelas 11,0
+2746,9789790600751,Teknik Konstruksi Bangunan Gedung Jilid 2,Kelas 11,0
+2748,9789790600782,Teknik Konstruksi Kapal Baja Jilid 2,Kelas 11,0
+2750,9789790600812,Teknik Listrik Industri Jilid 2,Kelas 11,0
+2753,9789790600850,Teknik Mesin Industri Jilid 2,Kelas 11,0
+2756,9789790600898,Teknik Otomasi Industri Jilid 2,Kelas 11,0
+2759,9789790600935,Teknik Pemanfaatan Tenaga Listrik Jilid 2,Kelas 11,0
+2762,9789790600973,Teknik Pembangkit Tenaga Listrik Jilid 2,Kelas 11,0
+2768,9789790601086,Teknik Pembuatan Benang dan Pembuatan Kain Jilid 2,Kelas 11,0
+2770,9789790601116,Teknik Pemeliharaan dan Perbaikan Sistem Elektronika Jilid 2,Kelas 11,0
+2773,9789790601154,Teknik Pemesinan Jilid 2,Kelas 11,0
+2775,9789790601185,Teknik Pencelupan dan Pencapan Jilid 2,Kelas 11,0
+2778,9789790601222,Teknik Pengecoran Jilid 2,Kelas 11,0
+2781,9789790601260,Teknik Pengelasan Kapal Jilid 2,Kelas 11,0
+2783,9789790601369,Teknik Perkayuan Jilid 2,Kelas 11,0
+2785,9789790601390,Teknik Produksi Mesin Industri Jilid 2,Kelas 11,0
+2788,9789790601437,Teknik Sepeda Motor Jilid 2,Kelas 11,0
+2791,9789790601475,Teknik Struktur Bangunan Jilid 2,Kelas 11,0
+2794,9789790601512,Teknik Survei dan Pemetaan Jilid 2,Kelas 11,0
+2797,9789790601550,Teknik Telekomunikasi Jilid 2,Kelas 11,0
+2800,9789790601598,Teknik Transmisi Tenaga Listrik Jilid 2,Kelas 11,0
+2803,9789790600072,Rekayasa Perangkat Lunak Jilid 2,Kelas 11,0
+2806,9789790600713,Teknik Grafis Komunikasi Jilid 2,Kelas 11,0
+2809,9789790601291,Teknik Penyiaran & Produksi Program Radio Televisi dan Film Jilid 2,Kelas 11,0
+2811,9786028320306,Ilmu Kesehatan Jilid 2,Kelas 11,0
+2813,9786028320887,Pekerjaan Sosial Jilid 2,Kelas 11,0
+2816,9786028320009,Agribisnis Ternak Ruminansia Jilid 2,Kelas 11,0
+2819,9786028320924,Pengawasan Mutu Bahan Produk Pangan Jilid 2,Kelas 11,0
+2821,9789790600553,Teknik Budidaya Tanaman Jilid 2,Kelas 11,0
+2824,9789790601055,Teknik Pembibitan Tanaman dan Produksi Benih Jilid 2,Kelas 11,0
+2826,9789790601635,Teknologi Pangan Jilid 2,Kelas 11,0
+2828,9786028320191,Budidaya Ikan Jilid 2,Kelas 11,0
+2831,9786028320771,Nautika Kapal Penangkap Ikan Jilid 2,Kelas 11,0
+2836,9786028320375,Kesekretarisan Jilid 2,Kelas 11,0
+2838,9786028320511,Konsep Dasar Akuntansi dan Pelaporan Keuangan Jilid 2,Kelas 11,0
+2841,9786028320702,Marketing Jilid 2,Kelas 11,0
+2843,9786028320955,Penjualan Jilid 2,Kelas 11,0
+2846,9786028320047,Akomodasi Perhotelan Jilid 2,Kelas 11,0
+2849,9786028320818,Patiseri Jilid 2,Kelas 11,0
+2852,9789790600034,Restoran Jilid 2,Kelas 11,0
+2855,9789790600355,Tata Busana Jilid 2,Kelas 11,0
+2858,9789790600393,Tata Kecantikan Kulit Jilid 2,Kelas 11,0
+2861,9789790600430,Tata Kecantikan Rambut Jilid 2,Kelas 11,0
+2864,9789790601321,Teknik Perencanaan Gizi Makanan Jilid 2,Kelas 11,0
+2867,9789790601666,Usaha Jasa Pariwisata Jilid 2,Kelas 11,0
+2869,9786028320559,Kriya Kayu Jilid 2,Kelas 11,0
+2871,9786028320580,Kriya Keramik Jilid 2,Kelas 11,0
+2874,9786028320627,Kriya Kulit Jilid 2,Kelas 11,0
+2877,9786028320665,Kriya Tekstil Jilid 2,Kelas 11,0
+2880,9789790600218,Seni Rupa Jilid 2,Kelas 11,0
+2882,9786028320856,Pedalangan Jilid 2,Kelas 11,0
+2884,9789790600164,Seni Musik Klasik Jilid 2,Kelas 11,0
+2886,9789790600171,Seni Musik Non Klasik Jilid 2,Kelas 11,0
+2889,9789790600249,Seni Tari Jilid 2,Kelas 11,0
+2892,9789790600294,Seni Teater Jilid 2,Kelas 11,0
+612,9789790688926,Bahasa dan Sastra Indonesia 3 (IPA/IPS),Kelas 12,0
+613,9789790688315,Biologi,Kelas 12,0
+614,9789790687905,Geografi,Kelas 12,0
+616,9789790687370,Sosiologi 3 Menyelami Fenomena Sosial di Masyarakat,Kelas 12,0
+618,9789790687424,Sosiologi 3,Kelas 12,0
+809,1234567891231,Instalasi Motor Listrik,Kelas 12,0
+810,1234567891231,Instalasi Motor Listrik,Kelas 12,0
+811,1234567891231,Animasi 2D,Kelas 12,0
+858,9794628980,Interlanguage English for Senior High School Students XII (IPA IPS),Kelas 12,0
+859,9794629480,Matematika Aplikasi Untuk SMA dan MA Kelas XII Program Studi Ilmu Alam Jilid 3,Kelas 12,0
+860,9789790682337,Kompetensi Fisika untuk SMA MA Kelas XII,Kelas 12,0
+861,9789790681866,Kimia 3 untuk SMA MA Kelas XII,Kelas 12,0
+862,9789790680616,Sejarah  untuk SMA MA kelas XII Program IPA,Kelas 12,0
+863,9789790681408,Geografi XII SMA,Kelas 12,0
+864,9789790682184,Sosiologi Kontekstual untuk SMA MA Kelas XII,Kelas 12,0
+865,9794628980,Inter Language  English For Senior High School Student XII Languange study Programme,Kelas 12,0
+866,9789790682221,Antropologi kelas  XII untuk SMA MA Program Bahasa,Kelas 12,0
+916,9794629758,Comunication Builder English For Vocational School For Intermediate Level (Grade XII) Vocational School (Smk Mak),Kelas 12,0
+917,9786028320733,Matematika SMK Bisnis dan Manajemen Jilid 3,Kelas 12,0
+919,9786028320009,Agribisnis Ternak Ruminansia Jilid 3,Kelas 12,0
+920,9786028320047,Akomodasi Perhotelan Jilid 3,Kelas 12,0
+921,9786028320115,Alat Ukur dan Teknik Pengukuran Jilid 3,Kelas 12,0
+922,9786028320169,Budidaya Ikan Jilid 3,Kelas 12,0
+923,9786028320412,Kimia Industri Jilid 3,Kelas 12,0
+925,9786028320665,Kriya Tekstil Jilid 3,Kelas 12,0
+928,,Pendidikan Jasmani Olahraga dan Kesehatan,Kelas 12,0
+929,,Bahasa Indonesia 3(Semua Program),Kelas 12,0
+930,9786028320771,Nautika Kapal Penangkap Ikan Jilid 3,Kelas 12,0
+931,9786028320818,Patiseri Jilid 3,Kelas 12,0
+932,9786028320887,Pekerjaan Sosial Jilid 3,Kelas 12,0
+933,9786028320965,Penjualan Jilid 3,Kelas 12,0
+934,9789790600072,Rekayasa Perangkat Lunak Jilid 3,Kelas 12,0
+935,9789790600478,Teknik Alat Berat Jilid 3,Kelas 12,0
+936,9789790600676,Teknik Grafika dan Industri Grafika Jilid 3,Kelas 12,0
+937,,Teknik Perencanaan Gizi Makanan Jilid 3,Kelas 12,0
+938,9789790601437,Teknik Sepeda Motor Jilid 3,Kelas 12,0
+957,9789792815849,Buku Siswa Matematika Untuk SMA MA Kelas XII,Kelas 12,0
+958,9789792815603,Buku Siswa Biologi Untuk SMA MA Kelas XII,Kelas 12,0
+959,9792815795,Buku Siswa Fisika Untuk SMA MA Kelas XII Peminatan Matematika dan ilmu - ilmu Alam,Kelas 12,0
+960,9789792815689,Buku Siswa Kimia Untuk SMA MA Kelas XII (Peminatan) Kur 13,Kelas 12,0
+961,9796625833,Buku Siswa Geografi untuk SMA MA Kelas XII Peminatan Ilmu-Ilmu Sosial,Kelas 12,0
+962,9796625710,Buku Siswa Sosiologi untuk SMA MA Kelas XII,Kelas 12,0
+963,9789796625604,Buku Siswa Ekonomi Untuk SMA MA Kelas XII (Peminatan) Kur 13,Kelas 12,0
+964,9789792815672,Buku Guru Biologi 12 (Peminatan) Kur 13,Kelas 12,0
+965,9789792815832,Buku Guru Fisika Untuk SMA MA Kelas XII Peminatan Matematika dan Ilmu - Ilmu Alam,Kelas 12,0
+966,9789792815757,Buku Guru Kimia 12 untuk SMA MA Kelas XII Kurikulum 2013 Peminatan Matematika dan Ilmu-Ilmu Alam,Kelas 12,0
+967,,Buku Guru Geografi untuk SMA/MA Kelas XII (Peminatan) Kur 13,Kelas 12,0
+968,9789796625758,Buku Guru Sosiologi 12 untuk SMA MA Kelas XII Kurikulum 2013 Peminatan Ilmu-Ilmu Sosial,Kelas 12,0
+969,9796625673,Buku Guru Ekonomi Untuk SMA MA Kelas XII Peminatan Ilmu-Ilmu Sosial,Kelas 12,0
+1061,9786022824718,Pendidikan Pancasila dan Kewarganegaraan SMA MA SMK MAK Kelas XII,Kelas 12,0
+1062,9786022824794,Bahasa Inggris SMA MA SMK MAK Kelas XII,Kelas 12,0
+1063,9786022821038,Matematika SMA MA SMK MAK Kelas XII,Kelas 12,0
+1064,9786022821076,Sejarah Indonesia SMA MA SMK MAK Kelas XII,Kelas 12,0
+1065,9786022824572,Seni Budaya SMA MA SMK MAK Kelas XII Semester 2,Kelas 12,0
+1066,9786022824497,Prakarya dan Kewirausahaan SMA MA SMK MAK Kelas XII,Kelas 12,0
+1067,9786022824138,Pendidikan Agama Kristen dan Budi Pekerti SMA SMK Kelas XII,Kelas 12,0
+1068,9786022824213,Pendidikan Agama Katolik dan Budi Pekerti SMA SMK Kelas XXII,Kelas 12,0
+1129,,Pendidikan Agama Islam  untuk SMA kelas XII,Kelas 12,0
+1130,,Aktif dan Kreatif Berbahasa Indonesia IPA S,Kelas 12,0
+1131,,Panduan Pembelajaran Biologi,Kelas 12,0
+1132,,Teknologi Informasi dan Komunikasi XII,Kelas 12,0
+1133,,Ekonomi,Kelas 12,0
+1134,,Aktif dan Kreatif Berbahasa Indonesia (Bhs),Kelas 12,0
+1135,9794629111,Matematika Untuk Sekolah Menengah Atas & Madrasah Aliyah XII Bahasa,Kelas 12,0
+1209,9786028320580,Kriya Keramik Jilid 3,Kelas 12,0
+1210,9789790600034,Restoran Jilid 3,Kelas 12,0
+1211,9789790600249,Seni Tari Jilid 3,Kelas 12,0
+1212,9789790600355,Tata Busana Jilid 3,Kelas 12,0
+1213,9789790600393,Tata Kecantikan Kulit Jilid 3,Kelas 12,0
+1214,9789790600433,Tata Kecantikan Rambut Jilid 3,Kelas 12,0
+1215,9789790600973,Teknik Pembangkit Tenaga Listrik Jilid 3,Kelas 12,0
+1216,9789790600515,Teknik Bodi Otomotif Jilid 3,Kelas 12,0
+1217,9789790600553,Teknik Budidaya Tanaman Jilid 3,Kelas 12,0
+1218,9789790600591,Teknik Distribusi Tenaga Listrik Jilid 3,Kelas 12,0
+1219,9789790600638,Teknik Gambar Bangunan Jilid 3,Kelas 12,0
+1220,9789790600812,Teknik Listrik Industri Jilid 3,Kelas 12,0
+1221,9789790600850,Teknik Mesin Industri Jilid 3,Kelas 12,0
+1222,9789790600898,Teknik Otomasi Industri Jilid 3,Kelas 12,0
+1223,9789790600935,Teknik Pemanfaatan Tenaga Listrik Jilid 3,Kelas 12,0
+1224,9789790601017,Teknik Pembentukan Pelat Jilid 3,Kelas 12,0
+1225,9789790601116,Teknik Pemeliharaan dan Perbaikan Sistem Elektronika Jilid 3,Kelas 12,0
+1226,9789790601390,Teknik Produksi Mesin Industri Jilid 3,Kelas 12,0
+1227,9789790601475,Teknik Struktur Bangunan Jilid 3,Kelas 12,0
+1228,9789790601512,Teknik Survei dan Pemetaan Jilid 3,Kelas 12,0
+1229,9789790601598,Teknik Transmisi Tenaga Listrik Jilid 3,Kelas 12,0
+1361,,Pendidikan Agama Islam dan Budi Pekerti SMA SMK Kelas XII,Kelas 12,0
+2524,9786020000000,Buku Siswa: Pendidikan Pancasila dan Kewarganegaraan SMA MA SMK MAK Kelas XII,Kelas 12,0
+2525,9786020000000,Buku Siswa: Bahasa Inggris SMA MA SMK MAK Kelas XII,Kelas 12,0
+2526,9786020000000,Buku Siswa: Matematika SMA MA SMK MAK Kelas XII,Kelas 12,0
+2527,9786020000000,Buku Siswa: Sejarah Indonesia SMA MA SMK MAK Kelas XII,Kelas 12,0
+2528,9786020000000,Buku Siswa: Seni Budaya SMA MA SMK MAK Kelas XII Semester 2,Kelas 12,0
+2529,9786020000000,Buku Siswa: Prakarya dan Kewirausahaan SMA MA SMK MAK Kelas XII,Kelas 12,0
+2530,,Buku Siswa: Pendidikan Agama Islam dan Budi Pekerti SMA SMK Kelas XII,Kelas 12,0
+2531,9786020000000,Buku Siswa: Pendidikan Agama Kristen dan Budi Pekerti SMA SMK Kelas XII,Kelas 12,0
+2532,9786020000000,Buku Siswa: Pendidikan Agama Katolik dan Budi Pekerti SMA SMK Kelas XXII,Kelas 12,0
+2533,,Baud Basa Jawa Kelas XII SMA,Kelas 12,0
+2534,9789790000000,Buku Siswa: Matematika untuk SMA MA Kelas XII,Kelas 12,0
+2535,9789790000000,Buku Siswa: Biologi untuk SMA MA Kelas XII,Kelas 12,0
+2536,9792815795,Buku Siswa: Fisika untuk SMA MA Kelas XII Peminatan Matematika dan ilmu - ilmu Alam,Kelas 12,0
+2537,9789790000000,Buku Siswa: Kimia untuk SMA MA Kelas XII (Peminatan) Kur 13,Kelas 12,0
+2538,9796625833,Buku Siswa: Geografi untuk SMA MA Kelas XII Peminatan Ilmu-Ilmu Sosial,Kelas 12,0
+2539,9796625710,Buku Siswa: Sosiologi untuk SMA MA Kelas XII,Kelas 12,0
+2540,9789800000000,Buku Siswa: Ekonomi untuk SMA MA Kelas XII (Peminatan) Kur 13,Kelas 12,0
+2541,9789790000000,Buku Guru: Biologi 12 (Peminatan) Kur 13,Kelas 12,0
+2542,9789790000000,Buku Guru: Fisika untuk SMA MA Kelas XII Peminatan Matematika dan Ilmu - Ilmu Alam,Kelas 12,0
+2543,9789790000000,Buku Guru: Kimia 12 untuk SMA MA Kelas XII Kurikulum 2013 Peminatan Matematika dan Ilmu-Ilmu Alam,Kelas 12,0
+2544,9789800000000,Buku Guru: Geografi untuk SMA MA Kelas XII (Peminatan) Kur 13,Kelas 12,0
+2545,9789800000000,Buku Guru: Sosiologi 12 untuk SMA MA Kelas XII Kurikulum 2013 Peminatan Ilmu-Ilmu Sosial,Kelas 12,0
+2546,9796625673,Buku Guru: Ekonomi untuk SMA MA Kelas XII Peminatan Ilmu-Ilmu Sosial,Kelas 12,0
+2678,9794628980,Interlanguage English for Senior High School Students XII (IPA IPS),Kelas 12,0
+2679,9794629480,Matematika Aplikasi untuk SMA dan MA Kelas XII Program Studi Ilmu Alam Jilid 3,Kelas 12,0
+2680,9789790682337,Kompetensi Fisika untuk SMA MA Kelas XII,Kelas 12,0
+2681,9789790681361,Panduan Pembelajaran Biologi untuk SMA MA Kelas XII,Kelas 12,0
+2682,9789790681866,Kimia 3 untuk SMA MA Kelas XII,Kelas 12,0
+2683,9789790680616,Sejarah untuk SMA MA kelas XII Program IPA,Kelas 12,0
+2684,9789790952782,Pendidikan Jasmani Olahraga dan Kesehatan untuk SMA MA Kelas XII,Kelas 12,0
+2685,9789790952621,Teknologi Informasi dan Komunikasi SMA MA Kelas XII,Kelas 12,0
+2686,9789792813029,Kulina Basa Jawa XII SMA,Kelas 12,0
+2687,9789790681408,Geografi XII SMA,Kelas 12,0
+2688,9789790681927,Ekonomi untuk SMA MA Kelas XII,Kelas 12,0
+2689,9789790682184,Sosiologi Kontekstual untuk SMA MA Kelas XII,Kelas 12,0
+2691,9794628980,Inter Language English For Senior High School Student XII Languange study Programme,Kelas 12,0
+2692,9794629111,Matematika untuk Sekolah Menengah Atas & Madrasah Aliyah XII Bahasa,Kelas 12,0
+2693,9789790682221,Antropologi kelas XII untuk SMA MA Program Bahasa,Kelas 12,0
+2694,9789790956858,Pendidikan Agama Islam untuk SMA Kelas XII,Kelas 12,0
+2714,9794628697,Bahasa Indonesia 1 untuk SMK MAK Semua Program Keahlian Kelas XII,Kelas 12,0
+2715,9794629758,Comunication Builder English For Vocational School For Intermediate Level (Grade XII) Vocational School (SMK MAK),Kelas 12,0
+2716,9786028320733,Matematika SMK Bisnis dan Manajemen Jilid 3,Kelas 12,0
+2722,9786028320115,Alat Ukur dan Teknik Pengukuran Jilid 3,Kelas 12,0
+2725,9786028320412,Kimia Industri Jilid 3,Kelas 12,0
+2732,9789790600478,Teknik Alat Berat Jilid 3,Kelas 12,0
+2735,9789790600515,Teknik Bodi Otomotif Jilid 3,Kelas 12,0
+2738,9789790600591,Teknik Distribusi Tenaga Listrik Jilid 3,Kelas 12,0
+2741,9789790600638,Teknik Gambar Bangunan Jilid 3,Kelas 12,0
+2744,9789790600676,Teknik Grafika dan Industri Grafika Jilid 3,Kelas 12,0
+2751,9789790600812,Teknik Listrik Industri Jilid 3,Kelas 12,0
+2754,9789790600850,Teknik Mesin Industri Jilid 3,Kelas 12,0
+2757,9789790600898,Teknik Otomasi Industri Jilid 3,Kelas 12,0
+2760,9789790600935,Teknik Pemanfaatan Tenaga Listrik Jilid 3,Kelas 12,0
+2763,9789790600973,Teknik Pembangkit Tenaga Listrik Jilid 3,Kelas 12,0
+2771,9789790601116,Teknik Pemeliharaan dan Perbaikan Sistem Elektronika Jilid 3,Kelas 12,0
+2776,9789790601185,Teknik Pencelupan dan Pencapan Jilid 3,Kelas 12,0
+2779,9789790601222,Teknik Pengecoran Jilid 3,Kelas 12,0
+2786,9789790601390,Teknik Produksi Mesin Industri Jilid 3,Kelas 12,0
+2789,9789790601437,Teknik Sepeda Motor Jilid 3,Kelas 12,0
+2792,9789790601475,Teknik Struktur Bangunan Jilid 3,Kelas 12,0
+2795,9789790601512,Teknik Survei dan Pemetaan Jilid 3,Kelas 12,0
+2798,9789790601550,Teknik Telekomunikasi Jilid 3,Kelas 12,0
+2801,9789790601598,Teknik Transmisi Tenaga Listrik Jilid 3,Kelas 12,0
+2804,9789790600072,Rekayasa Perangkat Lunak Jilid 3,Kelas 12,0
+2807,9789790600713,Teknik Grafis Komunikasi Jilid 3,Kelas 12,0
+2814,9786028320887,Pekerjaan Sosial Jilid 3,Kelas 12,0
+2817,9786028320009,Agribisnis Ternak Ruminansia Jilid 3,Kelas 12,0
+2822,9789790600553,Teknik Budidaya Tanaman Jilid 3,Kelas 12,0
+2829,9786028320169,Budidaya Ikan Jilid 3,Kelas 12,0
+2832,9786028320771,Nautika Kapal Penangkap Ikan Jilid 3,Kelas 12,0
+2839,9786028320511,Konsep Dasar Akuntansi dan Pelaporan Keuangan Jilid 3,Kelas 12,0
+2844,9786028320965,Penjualan Jilid 3,Kelas 12,0
+2847,9786028320047,Akomodasi Perhotelan Jilid 3,Kelas 12,0
+2850,9786028320818,Patiseri Jilid 3,Kelas 12,0
+2853,9789790600034,Restoran Jilid 3,Kelas 12,0
+2856,9789790600355,Tata Busana Jilid 3,Kelas 12,0
+2862,9789790600433,Tata Kecantikan Rambut Jilid 3,Kelas 12,0
+2865,9789790601321,Teknik Perencanaan Gizi Makanan Jilid 3,Kelas 12,0
+2872,9786028320580,Kriya Keramik Jilid 3,Kelas 12,0
+2875,9786028320627,Kriya Kulit Jilid 3,Kelas 12,0
+2878,9786028320665,Kriya Tekstil Jilid 3,Kelas 12,0
+2887,9789790600171,Seni Musik Non Klasik Jilid 3,Kelas 12,0
+2890,9789790600249,Seni Tari Jilid 3,Kelas 12,0

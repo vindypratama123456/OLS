@@ -1,0 +1,20 @@
+language: php
+
+php:
+  - 7.2
+
+branches:
+  only:
+    - develop
+    - master
+
+script:
+  - composer selfupdate
+  - composer install --prefer-source --no-interaction --dev
+
+notifications:
+  email:
+    recipients:
+      - rengga@staff.gramedia.com
+    on_success: never
+    on_failure: always

@@ -1,0 +1,17 @@
+{
+	"sProcessing":   "Sedang memproses...",
+	"sLengthMenu":   "_MENU_",
+	"sZeroRecords":  "Tidak ditemukan data yang sesuai",
+	"sInfo":         "Data _START_ - _END_ dari total _TOTAL_ data",
+	"sInfoEmpty":    "Data 0 - 0 dari 0 entri",
+	"sInfoFiltered": "(disaring dari _MAX_ data)",
+	"sInfoPostFix":  "",
+	"sSearch":       "Cari",
+	"sUrl":          "",
+	"oPaginate": {
+		"sFirst":    "&laquo;",
+		"sPrevious": "&lsaquo;",
+		"sNext":     "&rsaquo;",
+		"sLast":     "&raquo;"
+	}
+}

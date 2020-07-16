@@ -1,0 +1,23 @@
+textarea {
+    resize: none;
+}
+
+.page-container .page-content {
+    min-height: 100% !important;
+}
+
+.parent-category {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 13pt;
+    font-weight: bold;
+}
+
+.info-collapse {
+    font-size: 10pt;
+    color: red;
+}
+
+.display-none {
+    display: none;
+}

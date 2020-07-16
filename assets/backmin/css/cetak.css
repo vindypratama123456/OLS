@@ -1,0 +1,37 @@
+@media print {
+  @page { margin: 0; }
+}
+body {
+    font-family: Tahoma;
+    font-size: 11px;
+    margin: 10px 20px;
+    padding: 0;
+}
+table.table-products, table.table-products th, table.table-products td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table.footer, table.footer tr, table.footer td {
+    border: 0;
+    border-collapse: collapse;
+}
+span.judul-1 {
+    font-size: 14px;
+    font-weight: bold;
+}
+span.judul-2 {
+    font-size: 13px;
+}
+#logo-content {
+    position: relative;
+}
+#logo-content img#logo-kiri {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#logo-content img#logo-kanan {
+    position: absolute;
+    top: 40px;
+    right: 0px;
+}
